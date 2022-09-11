@@ -52,7 +52,7 @@
 			<select name="filter" id="filter">
 				<option >Cardiología</option>
 				<option >Neurología</option>
-				<option >Farmaceutica</option>
+				<!-- <option >Farmaceutica</option> -->
 			</select>
 		</div>
 		<div class="formSep">
